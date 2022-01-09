@@ -10,7 +10,6 @@
 
 
 ### App Walk-though
-FGI
 <imTg src="https://imgur.com/52NQqS5.gif" width=200><br>
 
 
