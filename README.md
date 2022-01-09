@@ -1,7 +1,7 @@
 ## Hello world app
 
 ### App Description
-`TODO://` The app has various button and text fields that display an array of features such as :
+ The app has various button and text fields that display an array of features such as :
 (a) Text color change
 (b) Background color change 
 (c) Defaults to orignal background color when background is touched.
