@@ -10,7 +10,7 @@
 
 
 ### App Walk-though
-<imTg src="https://imgur.com/52NQqS5.gif" width=200><br>
+<imTg src="https://i.imgur.com/dQTWFiL.gif" width=200><br>
 
 
 
