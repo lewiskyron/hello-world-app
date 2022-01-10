@@ -1,4 +1,6 @@
-## Hello world app
+## Name of the App: Hello world app
+
+Submitted by : Lewis Kyron Nyoro 
 
 ### App Description
  The app has various button and text fields that display an array of features such as :
@@ -28,3 +30,12 @@
    - [x] a. User can enter text into a text field using the keyboard.  
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [x] c. If the text field is empty, update label with default text string.  
+
+ 
+ ### Challenges encountered while building app
+ 1. After running the app several times android studio would notfiy me that "Waiting for taregeted device to come online" and anytime this would happen the emulator would not work.
+ I solved this challenge through:
+(a) Running the app on my phone - Had to learn how to set phone on developer mode and configure it to android studio
+(b) Everytime I would wipe data from the emulator the above error would be rectified.
+ 
+ 
