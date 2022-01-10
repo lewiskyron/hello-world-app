@@ -11,6 +11,7 @@
 
 ### App Walk-though
 <imTg src="https://i.imgur.com/dQTWFiL.gif" width=200><br>
+ ![GIF](https://i.imgur.com/dQTWFiL.gif) 
 
 
 
